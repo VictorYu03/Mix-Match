@@ -1,0 +1,55 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    font-family: "Heebo", sans-serif;
+}
+
+h2 {
+    font-style: italic;
+}
+
+.primary-title {
+    font-size: 90px;
+    color: aliceblue;
+    margin-top: 20vh;
+}
+
+.primary-button,
+.secondary-button {
+    margin: 10px;
+    color: aliceblue;
+    text-transform: uppercase;
+    font-size: 15px;
+    padding: 12px 30px;
+    border-radius: 30px;
+    border: none;
+}
+
+.primary-button {
+    background: linear-gradient(20deg, #1F90E2, #900DF8);
+}
+
+.primary-button:hover {
+    background: linear-gradient(45deg, #2481c7, #7d14d2);
+}
+
+.secondary-button {
+    background: linear-gradient(20deg, #80271b, #c53e13); /* Change the colors here */
+}
+
+.secondary-button:hover {
+    background: linear-gradient(45deg, #67271d, #a43c1a); /* Change the colors here */
+}
+
+
+
+
+body {
+    text-align: center;
+}
+
+/* Import other CSS files below */
+

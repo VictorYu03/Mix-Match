@@ -1,0 +1,8 @@
+前端启动命令
+npm run start:frontend
+
+后台启动命令
+
+python app.py
+
+python chat.py

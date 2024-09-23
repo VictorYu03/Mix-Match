@@ -1,0 +1,9 @@
+Flask==2.0.2
+flasgger==0.9.5
+Werkzeug==2.2.2
+flask_session
+flask_cors
+redis
+mysql-connector-python
+websockets
+openai
